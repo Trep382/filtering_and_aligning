@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+filtering_and_aligning/__init__.py
+filtering_and_aligning/cli.py
+filtering_and_aligning.egg-info/PKG-INFO
+filtering_and_aligning.egg-info/SOURCES.txt
+filtering_and_aligning.egg-info/dependency_links.txt
+filtering_and_aligning.egg-info/requires.txt
+filtering_and_aligning.egg-info/top_level.txt
+filtering_and_aligning/utils/__init__.py
+filtering_and_aligning/utils/alignment.py
+filtering_and_aligning/utils/filters.py
